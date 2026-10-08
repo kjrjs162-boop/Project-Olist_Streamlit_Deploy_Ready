@@ -18,7 +18,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🛒 E-Commerce ML Command Center | FCAI Beni Suef - DEPI")
+st.title("🛒 E-Commerce ML Command Center | FCAI Beni Suef ")
 layout_style = 'plotly_dark'
 
 # ==========================================
